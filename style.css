@@ -1,0 +1,33 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    background: #2c3e50;
+    color: white;
+    margin-top: 150px;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+#timer{
+    font-size: 60px;
+    background: #34495e;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+button{
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background: #1abc9c;
+    color: black;
+}
